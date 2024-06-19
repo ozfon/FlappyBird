@@ -1,0 +1,9 @@
+# ignore __pycache__ folder
+__pycache__/
+
+# ignore python environment
+venv/
+
+#hidden files
+.*
+!.gitignore
